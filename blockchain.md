@@ -1,4 +1,4 @@
-![Photo blockchain](./blockchain1.jpg)
+![alt text](./Blockchain1.jpg)
 
 Exercices Distributed Ledger Technology
 =========================================
