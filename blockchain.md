@@ -1,4 +1,4 @@
-![alt text](/blockchain1.jpg "Photo blockchain")
+![alt text](./blockchain1.jpg "Photo blockchain")
 
 Exercices Distributed Ledger Technology
 =========================================
@@ -7,10 +7,10 @@ Arbre de merkle avec des blocks impairs ?
 -----------------------------------------
 ### Que faire ?
 
-![alt text](/TABLEAUMERKLE.png "Tableau de Merkel impair géré")
+![alt text](./TABLEAUMERKLE.png "Tableau de Merkel impair géré")
 
 Celon [Wikipédia](https://fr.wikipedia.org/wiki/Arbre_de_Merkle) il existe un moyen simple de gérer le bloblème de nombre de blocks impairs dans la completion d'un block, est :
-> De completer la base (que j'ai illustrée en tant que ==B H==) avec des block vides jusqu'à completer le dernier bock vide et donc "simuler" un block pour que l'arbre de merkle soit **Binaire**.
+> De completer la base (que j'ai illustrée en tant que B H) avec des block vides jusqu'à completer le dernier bock vide et donc "simuler" un block pour que l'arbre de merkle soit **Binaire**.
 
 
 Comment rejoindre ses pairs sur le réseau ?
@@ -36,7 +36,7 @@ Dans la blockchain comment lier les blocks entre eux ?
 
 Un block est un ensemble de données, soit les informations des échanges passés, une information (*un échange, un paiement*) est **euro-daté enregistré**, et il existe 2 fois ce *tiquet*, un pour chaque coté de l'échange, ceux-ci sont aussi lié, serront ainsi hashé et renvoyer au block parent qui les prendront en compte pour faire un total hashé des transaction jusqu'au root.
 
-Le block du **root** étant complet à sa *propre clé*, son *propre résultat* qui serra transféré a son **header**, ==ce résultat étant un cumul de toutes les transactions passé== serra donc infalsifiable et *personne ne pourra mentir ou triché* sur son block.
+Le block du **root** étant complet à sa *propre clé*, son *propre résultat* qui serra transféré a son **header**, **ce résultat étant un cumul de toutes les transactions passé** serra donc infalsifiable et *personne ne pourra mentir ou triché* sur son block.
 
 Quelle structure de données représente cette chaine de blocks ?
 -----------------------------------------
