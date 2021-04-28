@@ -1,4 +1,4 @@
-![alt text](./blockchain1.jpg "Photo blockchain")
+![Photo blockchain](./blockchain1.jpg)
 
 Exercices Distributed Ledger Technology
 =========================================
