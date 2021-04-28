@@ -7,7 +7,7 @@ Arbre de merkle avec des blocks impairs ?
 -----------------------------------------
 ### Que faire ?
 
-![alt text](./TABLEAUMERKLE.png "Tableau de Merkel impair géré")
+![alt text](./TABLEAUMERKLE.png "Tableau de Merkle impair géré")
 
 Celon [Wikipédia](https://fr.wikipedia.org/wiki/Arbre_de_Merkle) il existe un moyen simple de gérer le bloblème de nombre de blocks impairs dans la completion d'un block, est :
 > De completer la base (que j'ai illustrée en tant que B H) avec des block vides jusqu'à completer le dernier bock vide et donc "simuler" un block pour que l'arbre de merkle soit **Binaire**.
@@ -23,7 +23,7 @@ C'est très simple, a partir du moment que tu a créé ta wallet (*ton portefeui
 
 Qui à influencé le réseau bitcoin et comment ?
 -----------------------------------------
-### Sans cité les exemple du cours
+### Sans citer les exemples du cours
 
 Voici 3 noms qui pour moi on participé au projet Bitcoin :
 * D'après [Wikipédia](https://fr.wikipedia.org/wiki/Bitcoin#Cr%C3%A9ation) le bitcoin serrai une amélioration du concept de b-money imaginé par [Wei Dai](https://en.wikipedia.org/wiki/Wei_Dai) en 1999.
