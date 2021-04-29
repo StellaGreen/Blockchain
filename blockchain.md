@@ -17,7 +17,7 @@ Comment rejoindre ses pairs sur le réseau ?
 -----------------------------------------
 ### Je viens de rejoindre le réseau bitcoin ça ce passe comment ?
 
-C'est très simple, a partir du moment que tu a créé ta wallet (*ton portefeuille crypto disons*), tu possèdes 2 clées, une **clée privée** qui est *ton mot de passe* que tu ne partage avec personne et une **clée public**, c'est cette clée public qui fera le **lien** avec un pair (*dans le cas ou on devra t'envoyer de l'argent*), si au contraire tu dois envoyer quelqu'onque somme à un autre portefeuille, lui aussi possède une clée public qui serra naicessaire pour le transfert (*comme pour une lettre il faut l'adresse*).
+C'est très simple, a partir du moment que tu a créé ta wallet (*ton portefeuille crypto disons*), tu possèdes 2 clées, une **clée privée** qui est *ton mot de passe* que tu ne partage avec personne et une **clée public**, c'est cette clée public qui fera le **lien** avec un pair (*dans le cas ou on devra t'envoyer de l'argent*), si au contraire tu dois envoyer quelqu'on que somme à un autre portefeuille, lui aussi possède une clée public qui serra naicessaire pour le transfert (*comme pour une lettre il faut l'adresse*).
 
 > En résumé, **effectuer quelqu'on que transfert** avec une *clé public* nous lie au réseau.
 
@@ -54,4 +54,4 @@ En effet le block étant **validé** pour faire la transaction à *déjà était
 
 Mais *admettons* qu'un *géni* est venue et m'a offert le net-plus ultrat du PC futuriste *qui n'existe même pas* aujourd'hui et que je sois en mesure de prendre le controle de plus de **51 %** des noeuds du réseau, alors **en théorie** on pourrait corrompre le réseau et acceder a nos notre *fameuse modification*.
 
-        Rédigé par Stella Soler
+        Rédigée par Stella Soler
