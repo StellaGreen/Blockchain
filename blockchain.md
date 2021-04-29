@@ -52,6 +52,6 @@ A partir du moment où une transaction à était **signé** par **les deux parti
 
 En effet le block étant **validé** pour faire la transaction à *déjà était validé* et donc **copié par l'entiereté du reseau**, si le *moindre* chiffre change sur un block qui à déjà était validé alors celui ci serra reconnu comme *"traitre"* et pourrait même recevoir des *sanctions lourdes* comme la perte de points de gouvernances ou même directement de la cryptomonanaie avec l'interdiction de pouvoir émettre une transaction dans le futur.
 
-Mais *admettons* qu'un *géni* est Venue et m'a offert le net-plus ultrat du PC futuriste *qui n'existe même pas* aujourd'hui et que je sois en mesure de prendre le controle de plus de **51 %** des noeuds du réseau, alors **en théorie** on pourrait corrompre le réseau et acceder a nos notre *fameuse modification*.
+Mais *admettons* qu'un *géni* est venue et m'a offert le net-plus ultrat du PC futuriste *qui n'existe même pas* aujourd'hui et que je sois en mesure de prendre le controle de plus de **51 %** des noeuds du réseau, alors **en théorie** on pourrait corrompre le réseau et acceder a nos notre *fameuse modification*.
 
         Rédigée par Stella Soler
